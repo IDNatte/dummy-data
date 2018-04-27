@@ -1,0 +1,129 @@
+{
+  "skpdlist": [
+    {
+      "id": 1,
+      "name": "Dinas Komunikasi Dan Informasi"
+    },
+    {
+      "id": 2,
+      "name": "Dinas Pertanian"
+    },
+    {
+      "id": 3,
+      "name": "SATPOL PP"
+    },
+    {
+      "id": 4,
+      "name": "Inspektorat"
+    },
+    {
+      "id": 5,
+      "name": "BKPSDM"
+    },
+    {
+      "id": 6,
+      "name": "KESBANGPOL"
+    },
+    {
+      "id": 7,
+      "name": "DPMPTSP"
+    },
+    {
+      "id": 8,
+      "name": "Dinas PUPR"
+    },
+    {
+      "id": 9,
+      "name": "DUKCAPIL"
+    },
+    {
+      "id": 10,
+      "name": "BPRRD"
+    },
+    {
+      "id": 11,
+      "name": "Dinas Kesehatan"
+    },
+    {
+      "id": 12,
+      "name": "Dinas Lingkungan Hidup"
+    },
+    {
+      "id": 13,
+      "name": "Badan Pertahanan Nasional"
+    },
+    {
+      "id": 14,
+      "name": "Dinas Ketahanan Pangan"
+    },
+    {
+      "id": 15,
+      "name": "Dinas Perpajakan"
+    },
+    {
+      "id": 16,
+      "name": "DPMD"
+    },
+    {
+      "id": 17,
+      "name": "BPBD"
+    },
+    {
+      "id": 18,
+      "name": "BAPPELITBANG"
+    },
+    {
+      "id": 19,
+      "name": "DISBUDPAR"
+    },
+    {
+      "id": 20,
+      "name": "DISPORA"
+    },
+    {
+      "id": 21,
+      "name": "Dinas Perdagangan"
+    },
+    {
+      "id": 22,
+      "name": "DPPKB"
+    },
+    {
+      "id": 23,
+      "name": "RSUD Datu Sanggul"
+    },
+    {
+      "id": 24,
+      "name": "DPRD"
+    },
+    {
+      "id": 25,
+      "name": "DPPPA"
+    },
+    {
+      "id": 26,
+      "name": "Dinas Perindustrian"
+    },
+    {
+      "id": 27,
+      "name": "Dinas Ketenagakerjaan"
+    },
+    {
+      "id": 28,
+      "name": "Dinas Sosial"
+    }
+  ],
+  
+  "dataRel": [
+    {
+      "id": 1,
+      "body": "some data",
+      "skpdname": 1
+    },
+    {
+      "id": 2,
+      "body": "some data",
+      "skpdname": 2
+    }
+  ]
+}
