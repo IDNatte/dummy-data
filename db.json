@@ -11,7 +11,55 @@
     {
       "id": 3,
       "name": "Dinas Perikanan"
-    }
+    },
+    {
+      "id": 4,
+      "name": "Dinas Pemuda Dan Olahraga"
+    },
+    {
+      "id": 5,
+      "name": "Dinas Pendidikan"
+    },
+    {
+      "id": 6,
+      "name": "Dinas Kesehatan"
+    },
+    {
+      "id": 7,
+      "name": "Kesbangpol"
+    },
+    {
+      "id": 8,
+      "name": "BKPSDM"
+    },
+    {
+      "id": 9,
+      "name": "BPKAD"
+    },
+    {
+      "id": 10,
+      "name": "Dinas Pertanian"
+    },
+    {
+      "id": 11,
+      "name": "Inspektorat"
+    },
+    {
+      "id": 12,
+      "name": "Dinas Lingkungan Hidup"
+    },
+    {
+      "id": 13,
+      "name": "DKP"
+    },
+    {
+      "id": 14,
+      "name": "DPMD"
+    },
+    {
+      "id": 15,
+      "name": "BAPPELITBANG"
+    },
   ],
   
   "dataRel": [
