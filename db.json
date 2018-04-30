@@ -1,0 +1,260 @@
+{
+  "skpdlist": [
+    {
+      "id": 1,
+      "name": "Dinas Komunikasi Dan Informasi"
+    },
+    {
+      "id": 2,
+      "name": "Dinas Pertanian"
+    },
+    {
+      "id": 3,
+      "name": "SATPOL PP"
+    },
+    {
+      "id": 4,
+      "name": "Inspektorat"
+    },
+    {
+      "id": 5,
+      "name": "BKPSDM"
+    },
+    {
+      "id": 6,
+      "name": "KESBANGPOL"
+    },
+    {
+      "id": 7,
+      "name": "DPMPTSP"
+    },
+    {
+      "id": 8,
+      "name": "Dinas PUPR"
+    },
+    {
+      "id": 9,
+      "name": "DUKCAPIL"
+    },
+    {
+      "id": 10,
+      "name": "BPRRD"
+    },
+    {
+      "id": 11,
+      "name": "Dinas Kesehatan"
+    },
+    {
+      "id": 12,
+      "name": "Dinas Lingkungan Hidup"
+    },
+    {
+      "id": 13,
+      "name": "Badan Pertahanan Nasional"
+    },
+    {
+      "id": 14,
+      "name": "Dinas Ketahanan Pangan"
+    },
+    {
+      "id": 15,
+      "name": "Dinas Perpajakan"
+    },
+    {
+      "id": 16,
+      "name": "DPMD"
+    },
+    {
+      "id": 17,
+      "name": "BPBD"
+    },
+    {
+      "id": 18,
+      "name": "BAPPELITBANG"
+    },
+    {
+      "id": 19,
+      "name": "DISBUDPAR"
+    },
+    {
+      "id": 20,
+      "name": "DISPORA"
+    },
+    {
+      "id": 21,
+      "name": "Dinas Perdagangan"
+    },
+    {
+      "id": 22,
+      "name": "DPPKB"
+    },
+    {
+      "id": 23,
+      "name": "RSUD Datu Sanggul"
+    },
+    {
+      "id": 24,
+      "name": "DPRD"
+    },
+    {
+      "id": 25,
+      "name": "DPPPA"
+    },
+    {
+      "id": 26,
+      "name": "Dinas Perindustrian"
+    },
+    {
+      "id": 27,
+      "name": "Dinas Ketenagakerjaan"
+    },
+    {
+      "id": 28,
+      "name": "Dinas Sosial"
+    },
+    {
+      "id": 29,
+      "name": "Dinas Pendidikan"
+    }
+  ],
+  
+  "dataRel": [
+    {
+      "id": 1,
+      "data": [
+        {
+          "schedule": [
+            {
+              "Yearly" : {
+                "statistic": [
+                  {
+                    "region": "Binuang",
+                    "item": [
+                      {
+                        "name": "Sasangga Banua",
+                        "total": 425                        
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Hatungun",
+                    "item": [
+                      {
+                        "name": "Mitra Kencana",
+                        "total": 0
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Tapin Selatan",
+                    "item": [
+                      {
+                        "name": "Setia Kawan",
+                        "total": 138
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Salam Babaris",
+                    "item": [
+                      {
+                        "name": "Insan peduli",
+                        "total": 90
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Tapin Tengah",
+                    "item": [
+                      {
+                        "name": "Ruhui Rahayu",
+                        "total": 134
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Piani",
+                    "item": [
+                      {
+                        "name": "Sirang Pitu",
+                        "total": 214
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Tapin Utara",
+                    "item": [
+                      {
+                        "name": "Lathiiful Khabiir",
+                        "total": 137
+                      },
+                      {
+                        "name": "Al Mukaromah Banua Halat",
+                        "total": 98
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Bakarangan",
+                    "item": [
+                      {
+                        "name": "Karya Muda",
+                        "total": 147
+                      },
+                      {
+                        "name": "Al Miftah",
+                        "total": 115
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Candi Laras Utara",
+                    "item": [
+                      {
+                        "name": "Pangeran Muhammad Al-Fatih",
+                        "total": 84
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Candi Laras Selatan",
+                    "item": [
+                      {
+                        "name": "None",
+                        "total": 0
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Lokpaikat",
+                    "item": [
+                      {
+                        "name": "None",
+                        "total": 0
+                      }
+                    ]
+                  },
+                  {
+                    "region": "Bungur",
+                    "item": [
+                      {
+                        "name": "None",
+                        "total": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "skpdname": 29
+    },
+    {
+      "id": 2,
+      "data": "some data",
+      "skpdname": 2
+    }
+  ]
+}
