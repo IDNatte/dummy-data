@@ -124,83 +124,129 @@
       "data": {
         "statistic": [
           {
+            "region": "Binuang",
+            "statisticName": "Sasangga Banua",
+            "total": 425,
             "period": [
               "2018",
-              "yearly",
-              {
-                "data": [
-                  {
-                    "region": "Binuang",
-                    "statisticName": "Sasangga Banua",
-                    "total": 425
-                  },
-                  {
-                    "region": "Hatungun",
-                    "statisticName": "Mitra Kencana",
-                    "total": 0
-                  },
-                  {
-                    "region": "Tapin Selatan",
-                    "statisticName": "Setia Kawan",
-                    "total": 138
-                  },
-                  {
-                    "region": "Salam Babaris",
-                    "statisticName": "Insan peduli",
-                    "total": 90
-                  },
-                  {
-                    "region": "Tapin Tengah",
-                    "statisticName": "Ruhui Rahayu",
-                    "total": 134
-                  },
-                  {
-                    "region": "Piani",
-                    "statisticName": "Sirang Pitu",
-                    "total": 214
-                  },
-                  {
-                    "region": "Tapin Utara",
-                    "statisticName": "Lathiiful Khabiir",
-                    "total": 137
-                  },
-                  {
-                    "region": "Tapin Utara",
-                    "statisticName": "Al Mukaromah Banua Halat",
-                    "total": 98
-                  },
-                  {
-                    "region": "Bakarangan",
-                    "statisticName": "Karya Muda",
-                    "total": 147
-                  },
-                  {
-                    "region": "Bakarangan",
-                    "statisticName": "Al Miftah",
-                    "total": 115
-                  },
-                  {
-                    "region": "Candi Laras Utara",
-                    "statisticName": "Pangeran Muhammad Al-Fatih",
-                    "total": 84
-                  },
-                  {
-                    "region": "Candi Laras Selatan",
-                    "statisticName": "None",
-                    "total": 0
-                  },
-                  {
-                    "region": "Lokpaikat",
-                    "statisticName": "None",
-                    "total": 0
-                  },
-                  {
-                    "region": "Bungur",
-                    "statisticName": "None",
-                    "total": 0
-                  }
-                ]
-              }
+              "yearly"
+            ]
+          },
+          {
+            "region": "Hatungun",
+            "statisticName": "Mitra Kencana",
+            "total": 0,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Tapin Selatan",
+            "statisticName": "Setia Kawan",
+            "total": 138,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Salam Babaris",
+            "statisticName": "Insan peduli",
+            "total": 90,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Tapin Tengah",
+            "statisticName": "Ruhui Rahayu",
+            "total": 134,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Piani",
+            "statisticName": "Sirang Pitu",
+            "total": 214,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Tapin Utara",
+            "statisticName": "Lathiiful Khabiir",
+            "total": 137,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Tapin Utara",
+            "statisticName": "Al Mukaromah Banua Halat",
+            "total": 98,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Bakarangan",
+            "statisticName": "Karya Muda",
+            "total": 147,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Bakarangan",
+            "statisticName": "Al Miftah",
+            "total": 115,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Candi Laras Utara",
+            "statisticName": "Pangeran Muhammad Al-Fatih",
+            "total": 84,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Candi Laras Selatan",
+            "statisticName": "None",
+            "total": 0,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Lokpaikat",
+            "statisticName": "None",
+            "total": 0,
+            "period": [
+              "2018",
+              "yearly"
+            ]
+          },
+          {
+            "region": "Bungur",
+            "statisticName": "None",
+            "total": 0,
+            "period": [
+              "2018",
+              "yearly"
             ]
           }
         ]
