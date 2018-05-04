@@ -121,135 +121,83 @@
   "dataRel": [
     {
       "id": 1,
-      "data": [
-        {
-          "schedule": [
-            {
-              "Yearly" : {
-                "statistic": [
-                  {
-                    "region": "Binuang",
-                    "item": [
-                      {
-                        "name": "Sasangga Banua",
-                        "total": 425                        
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Hatungun",
-                    "item": [
-                      {
-                        "name": "Mitra Kencana",
-                        "total": 0
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Tapin Selatan",
-                    "item": [
-                      {
-                        "name": "Setia Kawan",
-                        "total": 138
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Salam Babaris",
-                    "item": [
-                      {
-                        "name": "Insan peduli",
-                        "total": 90
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Tapin Tengah",
-                    "item": [
-                      {
-                        "name": "Ruhui Rahayu",
-                        "total": 134
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Piani",
-                    "item": [
-                      {
-                        "name": "Sirang Pitu",
-                        "total": 214
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Tapin Utara",
-                    "item": [
-                      {
-                        "name": "Lathiiful Khabiir",
-                        "total": 137
-                      },
-                      {
-                        "name": "Al Mukaromah Banua Halat",
-                        "total": 98
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Bakarangan",
-                    "item": [
-                      {
-                        "name": "Karya Muda",
-                        "total": 147
-                      },
-                      {
-                        "name": "Al Miftah",
-                        "total": 115
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Candi Laras Utara",
-                    "item": [
-                      {
-                        "name": "Pangeran Muhammad Al-Fatih",
-                        "total": 84
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Candi Laras Selatan",
-                    "item": [
-                      {
-                        "name": "None",
-                        "total": 0
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Lokpaikat",
-                    "item": [
-                      {
-                        "name": "None",
-                        "total": 0
-                      }
-                    ]
-                  },
-                  {
-                    "region": "Bungur",
-                    "item": [
-                      {
-                        "name": "None",
-                        "total": 0
-                      }
-                    ]
-                  }
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "skpdname": 29
+      "data": {
+        "schedule": ["yearly"],
+        "statistic": [
+          {
+            "region": "Binuang",
+            "statisticName": "Sasangga Banua",
+            "total": 425
+          },
+          {
+            "region": "Hatungun",
+            "statisticName": "Mitra Kencana",
+            "total": 0
+          },
+          {
+            "region": "Tapin Selatan",
+            "statisticName": "Setia Kawan",
+            "total": 138
+          },
+          {
+            "region": "Salam Babaris",
+            "statisticName": "Insan peduli",
+            "total": 90
+          },
+          {
+            "region": "Tapin Tengah",
+            "statisticName": "Ruhui Rahayu",
+            "total": 134
+          },
+          {
+            "region": "Piani",
+            "statisticName": "Sirang Pitu",
+            "total": 214
+          },
+          {
+            "region": "Tapin Utara",
+            "statisticName": "Lathiiful Khabiir",
+            "total": 137
+          },
+          {
+            "region": "Tapin Utara",
+            "statisticName": "Al Mukaromah Banua Halat",
+            "total": 98
+          },
+          {
+            "region": "Bakarangan",
+            "statisticName": "Karya Muda",
+            "total": 147
+          },
+          {
+            "region": "Bakarangan",
+            "statisticName": "Al Miftah",
+            "total": 115
+          },
+          {
+            "region": "Candi Laras Utara",
+            "statisticName": "Pangeran Muhammad Al-Fatih",
+            "total": 84
+          },
+          {
+            "region": "Candi Laras Selatan",
+            "statisticName": "None",
+            "total": 0
+          },
+          {
+            "region": "Lokpaikat",
+            "statisticName": "None",
+            "total": 0
+          },
+          {
+            "region": "Bungur",
+            "statisticName": "None",
+            "total": 0
+          }
+        ]
+      },
+      "skpdname": 29,
+      "RelativeStatisticName": "PKBM"
     },
     {
       "id": 2,
