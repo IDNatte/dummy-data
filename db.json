@@ -115,6 +115,10 @@
     {
       "id": 29,
       "name": "Dinas Pendidikan"
+    },
+    {
+      "id": 30,
+      "name": "Dinas Perikanan"
     }
   ],
   
@@ -256,8 +260,120 @@
     },
     {
       "id": 2,
-      "data": "some data",
-      "skpdname": 2
+      "data": {
+        "statistic": [
+          {
+            "region": "Binuang",
+            "statisticName": "Binuang",
+            "total": 83.50,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Hatungun",
+            "statisticName": "Hatungun",
+            "total": 73.30,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Tapin Selatan",
+            "statisticName": "Tapin Selatan",
+            "total": 123.38,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Salam Babaris",
+            "statisticName": "Salam Babaris",
+            "total": 21.35,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Tapin Tengah",
+            "statisticName": "Tapin Tengah",
+            "total": 1.70,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Piani",
+            "statisticName": "Piani",
+            "total": 0,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Tapin Utara",
+            "statisticName": "Tapin Utara",
+            "total": 33.5,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Bakarangan",
+            "statisticName": "Bakarangan",
+            "total": 524.95,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Candi Laras Utara",
+            "statisticName": "Candi Laras Utara",
+            "total": 622.05,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Candi Laras Selatan",
+            "statisticName": "Candi Laras Selatan",
+            "total": 522.05,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Lokpaikat",
+            "statisticName": "Lokpaikat",
+            "total": 13.00,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          },
+          {
+            "region": "Bungur",
+            "statisticName": "Bungur",
+            "total": 868.6,
+            "period": {
+              "applyDate":"2017",
+              "apply":"yearly"
+            }
+          }
+        ]
+      },
+      "skpdname": 30,
+      "RelativeStatisticName": "Produksi perikanan budidaya"
     }
   ]
 }
